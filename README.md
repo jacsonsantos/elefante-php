@@ -47,7 +47,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) — use, modifique e
 
 ## Vídeo de apresentação
 
-<video src="/assets/videos/elefante_base.mp4" width="480" controls></video>
+▶️ [Assista ao vídeo de apresentação](https://github.com/jacsonsantos/elefante-php/blob/main/assets/videos/elefante_base.mp4)
 
 ---
 
