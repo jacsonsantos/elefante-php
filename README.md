@@ -49,7 +49,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) — use, modifique e
 
 ## Vídeo de apresentação
 
-<video src="/assets/videos/elefante_apresentacao.mp4" width="480" controls></video>
+<video src="/assets/videos/elefante_base.mp4" width="480" controls></video>
 
 ---
 
