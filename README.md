@@ -2,8 +2,6 @@
 
 <img src="/assets/images/elefante_base_olho_bordado.jpeg" alt="Pelúcia Oficial do Elefante do PHP" width="300" />
 
-> *Imagem provisória — substituir pelo link definitivo da foto/render oficial da pelúcia assim que disponível.*
-
 Este repositório reúne o **modelo oficial da pelúcia do elefante do PHP**, disponibilizado como um projeto **open source** para toda a comunidade PHP do Brasil.
 
 O elefante é o mascote não-oficial da linguagem PHP, carinhosamente adotado pela comunidade ao longo dos anos como símbolo de identidade, pertencimento e diversão em eventos, encontros e grupos de PHP ao redor do mundo. Este projeto nasce da vontade de dar à comunidade brasileira um modelo próprio, aberto e livre para ser usado, adaptado e reproduzido por qualquer grupo, comunidade ou evento de PHP no país.
